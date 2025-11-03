@@ -1,0 +1,16 @@
+[
+  {
+    "q": "Who was the first President of India?",
+    "options": ["Mahatma Gandhi","Dr. Rajendra Prasad","Jawaharlal Nehru","Sardar Patel"],
+    "answer": 1,
+    "note": "Dr. Rajendra Prasad served as the first President of India.",
+    "labels": ["history","india"]
+  },
+  {
+    "q": "Which planet is known as the Red Planet?",
+    "options": ["Venus","Jupiter","Mars","Mercury"],
+    "answer": 2,
+    "note": "Mars is called the Red Planet because of iron oxide (rust) on its surface.",
+    "labels": ["science","astronomy"]
+  }
+]
