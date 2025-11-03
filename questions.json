@@ -12,5 +12,75 @@
     "answer": 2,
     "note": "Mars is called the Red Planet because of iron oxide (rust) on its surface.",
     "labels": ["science","astronomy"]
+  },
+    {
+    "q": "Who was the first woman Prime Minister of India?",
+    "options": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Sonia Gandhi"],
+    "answer": 0,
+    "note": "Indira Gandhi served as the first and only woman Prime Minister of India from 1966 to 1977 and again from 1980 to 1984.",
+    "labels": ["history", "india", "politics"]
+  },
+  {
+    "q": "Which is the largest planet in our Solar System?",
+    "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "answer": 2,
+    "note": "Jupiter is the largest planet, with a diameter of about 142,984 km — over 11 times that of Earth.",
+    "labels": ["science", "space"]
+  },
+  {
+    "q": "The 'Battle of Plassey' was fought in which year?",
+    "options": ["1757", "1764", "1857", "1858"],
+    "answer": 0,
+    "note": "The Battle of Plassey (1757) marked the beginning of British rule in India under the East India Company.",
+    "labels": ["history", "india"]
+  },
+  {
+    "q": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Kosi", "Ganga", "Yamuna", "Ghaghara"],
+    "answer": 0,
+    "note": "The Kosi River is called the 'Sorrow of Bihar' due to frequent floods affecting the region.",
+    "labels": ["geography", "india"]
+  },
+  {
+    "q": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": 1,
+    "note": "Alexander Graham Bell was awarded the first US patent for the invention of the telephone in 1876.",
+    "labels": ["science", "invention"]
+  },
+  {
+    "q": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "answer": 1,
+    "note": "Japan is called the 'Land of the Rising Sun' because it lies to the east of the Asian continent.",
+    "labels": ["geography", "world"]
+  },
+  {
+    "q": "In which sport is the term 'LBW' used?",
+    "options": ["Hockey", "Cricket", "Football", "Tennis"],
+    "answer": 1,
+    "note": "LBW stands for 'Leg Before Wicket' and is a rule used in the game of cricket.",
+    "labels": ["sports"]
+  },
+  {
+    "q": "Who wrote the National Anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subhash Chandra Bose", "Sarojini Naidu"],
+    "answer": 0,
+    "note": "Rabindranath Tagore composed 'Jana Gana Mana', which was adopted as India's national anthem in 1950.",
+    "labels": ["india", "culture"]
+  },
+  {
+    "q": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 2,
+    "note": "Nitrogen makes up about 78% of the Earth's atmosphere.",
+    "labels": ["science", "environment"]
+  },
+  {
+    "q": "The United Nations was founded in which year?",
+    "options": ["1919", "1939", "1945", "1950"],
+    "answer": 2,
+    "note": "The UN was established on 24 October 1945 after World War II to promote peace and cooperation.",
+    "labels": ["politics", "world"]
   }
 ]
